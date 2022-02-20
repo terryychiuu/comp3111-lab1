@@ -1,3 +1,3 @@
 Terry 12345678
 
-![Alt text](/Users/terrychiu/Desktop/comp3111/eclipse-workspace/Lab1/screenshot.png?raw=true)
+![Alt text](https://github.com/terryychiuu/comp3111-lab1/blob/master/screenshot.png?raw=true)
