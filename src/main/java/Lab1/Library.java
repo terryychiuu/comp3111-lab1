@@ -10,8 +10,8 @@ public class Library {
 		if (lib.someLibraryMethod())
 			System.out.println("Hello, World!");
 	}
-	
-    public boolean someLibraryMethod() {
+		
+	public boolean someLibraryMethod() {
         return true;
     }
 }
